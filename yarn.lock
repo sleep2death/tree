@@ -124,6 +124,100 @@
   dependencies:
     debug "^4.3.1"
 
+"@swc/cli@^0.1.57":
+  version "0.1.57"
+  resolved "https://registry.npmmirror.com/@swc/cli/-/cli-0.1.57.tgz#a9c424de5a217ec20a4b7c2c0e5c343980537e83"
+  integrity sha512-HxM8TqYHhAg+zp7+RdTU69bnkl4MWdt1ygyp6BDIPjTiaJVH6Dizn2ezbgDS8mnFZI1FyhKvxU/bbaUs8XhzQg==
+  dependencies:
+    commander "^7.1.0"
+    fast-glob "^3.2.5"
+    slash "3.0.0"
+    source-map "^0.7.3"
+
+"@swc/core-android-arm-eabi@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-android-arm-eabi/-/core-android-arm-eabi-1.2.197.tgz#fdc58468a4c8599cdb33b262ff8377e04d68c3e4"
+  integrity sha512-BNIexULLlBCU7jIbXA/+BpMUwraFbyifPkOlyC8MriyoR7wfW5cau56yOUztxrr7VdxcByMK+nO70WkVydUV3w==
+
+"@swc/core-android-arm64@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-android-arm64/-/core-android-arm64-1.2.197.tgz#fcf60c7773ad7529cd3606a211c0fbac283c8c1c"
+  integrity sha512-H1AJfQkojk+INurBwiHJf4iRpRwTI2I43TWUVbxXCyfAc9K9hfKNJFzp5Xapka5nLSgSD2ZNZgseMbfwUcYq6A==
+
+"@swc/core-darwin-arm64@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-darwin-arm64/-/core-darwin-arm64-1.2.197.tgz#091ce5b565c2295d49d872ebc684d89bbe7e756a"
+  integrity sha512-JIfXS1HHKKwZlVoKhVTllvD0m0sXiIneaw9TwXtUrHe6K95wJ53q82sqJyqBOWimh9ulCcB2M+XuqK4zDGbosA==
+
+"@swc/core-darwin-x64@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-darwin-x64/-/core-darwin-x64-1.2.197.tgz#fa78db11674fbffb86c2346de2212f806377d67f"
+  integrity sha512-Ml7MXJgrNuSGVNvEbeB1BoWFZ2rPhRBSa7IyvfTMmB/oDEvIKIkWH/5hEYdCy99s8XQ6ufqdMjPVqOFRuRXfig==
+
+"@swc/core-freebsd-x64@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-freebsd-x64/-/core-freebsd-x64-1.2.197.tgz#c83c03368c748bd7e87c2f8013cb3d1861732ebb"
+  integrity sha512-Ae6aDvBS/VGAHP3szmampFDzNZ/fOKVAhI1qqQauShzyIqXGL83GZ2zhC1FA94oC5Kora7VHz43DPqUuYRQPtg==
+
+"@swc/core-linux-arm-gnueabihf@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-linux-arm-gnueabihf/-/core-linux-arm-gnueabihf-1.2.197.tgz#d59ffb35eab9372c126009642b392a0e4efbe80c"
+  integrity sha512-cqIeaBzVVfsCW4CvJdxPwz9EHqnJZ+0K6gfTuHDa6Fp6ThWZtqKQhK4zL4hV3L4nWj7bqbOYKSUbdR79p4v92Q==
+
+"@swc/core-linux-arm64-gnu@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-linux-arm64-gnu/-/core-linux-arm64-gnu-1.2.197.tgz#789739ae412f0d13dbf560f0b9d48b05d7d4cd9d"
+  integrity sha512-1HHSnImnLAvuBpiDi7kJwyPEbAfSkLpL5IEMSQas90jDrIrSwgmnPLE5qBJwPasyrT8hJ/3n297tR+SlcudT/Q==
+
+"@swc/core-linux-arm64-musl@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.197.tgz#d38b6394d24fa6c2627aed173d69325816ed8907"
+  integrity sha512-C2GTIN5XgN/3zvwZITQnEuBMsPE2gQ5kkFjTFF9sKqG8tNUI8V+FP6AV4h7IkLccT1CgSWM7GCP4LsL2OC2iBA==
+
+"@swc/core-linux-x64-gnu@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-linux-x64-gnu/-/core-linux-x64-gnu-1.2.197.tgz#39ca0bd48b0b2b7b5bcebb48bd27fac3edc37cce"
+  integrity sha512-AHEHo9/u9GIBPUqsCkGWWe6WqGWAk07UklHm0k6Z99Z3OgsDfyDRECMVZGIAgMr1HqPPzsJCP5AmQ6WKZNBrfQ==
+
+"@swc/core-linux-x64-musl@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-linux-x64-musl/-/core-linux-x64-musl-1.2.197.tgz#673a86c7de79b405f675b14710d29cd81c23e37b"
+  integrity sha512-ZnawXY/s0YJnUqWZCN91VkPzTcH1hImOzUvwJ8f7uCIIYOLHYdjUa5S6xPVNHqOEanNYaeCq354LxBytYIo83g==
+
+"@swc/core-win32-arm64-msvc@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-win32-arm64-msvc/-/core-win32-arm64-msvc-1.2.197.tgz#73a4d89530985a7b784c8037a297f3bcce19bb98"
+  integrity sha512-jYnc5c2fn2z0oyy8mJkxstc4qxjZnQsf6YmCM32bm4un05MQg+4y4VxWxY7NMCPRaf8zWojcAy1wltuidbIe/A==
+
+"@swc/core-win32-ia32-msvc@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-win32-ia32-msvc/-/core-win32-ia32-msvc-1.2.197.tgz#a3cca42555d43636665ea0b3c60d29a41657492e"
+  integrity sha512-l8wa+2brxw8UUCNn65wBtUECVCs3w4WBOiTpT/+rPJF9vYVL7gt2rds73a+yB6rSIhOZqEseazIHi2aQ1S9bxQ==
+
+"@swc/core-win32-x64-msvc@1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core-win32-x64-msvc/-/core-win32-x64-msvc-1.2.197.tgz#611d4f6c490bfa0503c8a5567bfbef70c78cb7b3"
+  integrity sha512-uYf+Zch1rhNK3nAYL9C5a5WjtlffLkRf4Dh1OmuqNGmm7EI+AdwTECZX3cT1iICGb2J3GHUJlfPsNdllG8L9qA==
+
+"@swc/core@^1.2.197":
+  version "1.2.197"
+  resolved "https://registry.npmmirror.com/@swc/core/-/core-1.2.197.tgz#b22eb441429b37913fb7872ecfd2d9fb6a8d1be6"
+  integrity sha512-W7gUaNCrm4i26ZUMilPZjHiQck8mOMfOuZuXj1YrISMR20orACgEHz4kJHbqfXzHhqeS4CGwBkzi9h1lHrwKtw==
+  optionalDependencies:
+    "@swc/core-android-arm-eabi" "1.2.197"
+    "@swc/core-android-arm64" "1.2.197"
+    "@swc/core-darwin-arm64" "1.2.197"
+    "@swc/core-darwin-x64" "1.2.197"
+    "@swc/core-freebsd-x64" "1.2.197"
+    "@swc/core-linux-arm-gnueabihf" "1.2.197"
+    "@swc/core-linux-arm64-gnu" "1.2.197"
+    "@swc/core-linux-arm64-musl" "1.2.197"
+    "@swc/core-linux-x64-gnu" "1.2.197"
+    "@swc/core-linux-x64-musl" "1.2.197"
+    "@swc/core-win32-arm64-msvc" "1.2.197"
+    "@swc/core-win32-ia32-msvc" "1.2.197"
+    "@swc/core-win32-x64-msvc" "1.2.197"
+
 "@tootallnate/once@1":
   version "1.1.2"
   resolved "https://registry.npmmirror.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
@@ -408,6 +502,11 @@ commander@2.15.1:
   resolved "https://registry.npmmirror.com/commander/-/commander-2.15.1.tgz#df46e867d0fc2aec66a34662b406a9ccafff5b0f"
   integrity sha512-VlfT9F3V0v+jr4yxPc5gg9s62/fIVWsd2Bk2iD435um1NlGMYdVCq+MjcXnhYq2icNOizHr1kK+5TI6H0Hy0ag==
 
+commander@^7.1.0:
+  version "7.2.0"
+  resolved "https://registry.npmmirror.com/commander/-/commander-7.2.0.tgz#a36cb57d0b501ce108e4d20559a150a391d97ab7"
+  integrity sha512-QrWXB+ZQSVPmIWIhtEO9H+gwHaMGYiF5ChvoJ+K9ZGHG/sVsa6yiesAD1GC/x46sET00Xlwo1u49RVVVzvcSkw==
+
 concat-map@0.0.1:
   version "0.0.1"
   resolved "https://registry.npmmirror.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
@@ -674,7 +773,7 @@ express@^4.18.1:
     utils-merge "1.0.1"
     vary "~1.1.2"
 
-fast-glob@^3.2.11:
+fast-glob@^3.2.11, fast-glob@^3.2.5:
   version "3.2.11"
   resolved "https://registry.npmmirror.com/fast-glob/-/fast-glob-3.2.11.tgz#a1172ad95ceb8a16e20caa5c5e56480e5129c1d9"
   integrity sha512-xrO3+1bxSo3ZVHAnqzyuewYT6aMFHRAd4Kcs92MAonjwQZLsK9d0SF1IyQ3k5PoirxTW0Oe/RqFgMQ6TcNE5Ew==
@@ -1038,7 +1137,7 @@ lilconfig@^2.0.5:
   resolved "https://registry.npmmirror.com/lilconfig/-/lilconfig-2.0.5.tgz#19e57fd06ccc3848fd1891655b5a447092225b25"
   integrity sha512-xaYmXZtTHPAw5m+xLN8ab9C+3a8YmV3asNSPOATITbtwrfbwaLJj8h66H1WMIpALCkqsIzK3h7oQ+PdX+LQ9Eg==
 
-lodash@^4.17.14:
+lodash@^4.17.14, lodash@^4.17.21:
   version "4.17.21"
   resolved "https://registry.npmmirror.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
@@ -1775,6 +1874,11 @@ signal-exit@^3.0.3:
   resolved "https://registry.npmmirror.com/signal-exit/-/signal-exit-3.0.7.tgz#a9a1767f8af84155114eaabd73f99273c8f59ad9"
   integrity sha512-wnD2ZE+l+SPC/uoS0vXeE9L1+0wuaMqKlfz9AMUo38JsyLSBWSFcHR1Rri62LZc12vLr1gb3jl7iwQhgwpAbGQ==
 
+slash@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmmirror.com/slash/-/slash-3.0.0.tgz#6539be870c165adbd5240220dbe361f1bc4d4634"
+  integrity sha512-g9Q1haeby36OSStwb4ntCGGGaKsaVSjQ68fBxoQcutl5fS1vuY18H3wSt3jFyFtrkx+Kz0V1G85A4MyAdDMi2Q==
+
 smart-buffer@^4.2.0:
   version "4.2.0"
   resolved "https://registry.npmmirror.com/smart-buffer/-/smart-buffer-4.2.0.tgz#6e1d71fa4f18c05f7d0ff216dd16a481d0e8d9ae"
@@ -1814,6 +1918,11 @@ source-map@^0.6.0, source-map@~0.6.1:
   version "0.6.1"
   resolved "https://registry.npmmirror.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
+
+source-map@^0.7.3:
+  version "0.7.4"
+  resolved "https://registry.npmmirror.com/source-map/-/source-map-0.7.4.tgz#a9bbe705c9d8846f4e08ff6765acf0f1b0898656"
+  integrity sha512-l3BikUxvPOcn5E74dZiq5BGsTb5yEwhaTSzccU6t4sDOH8NWJCstKO5QT2CvtFoK6F0saL7p9xHAqHOlCPJygA==
 
 sprintf-js@1.1.2:
   version "1.1.2"
