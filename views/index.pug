@@ -1,13 +1,13 @@
 doctype html
 html
   head
-    title= "tree"
-    meta(name="viewport", content="width=device-width, initial-scale=1")
+    title= title
+    meta(name="viewport", content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0")
+    meta(charset="utf-8")
     style
       include dist/main.css
   body
-    div.bg-slate-200
-      div Tree Demo v1.0.0
+    div#container(class="bg-slate-400")
     script
       include dist/bundle.js
 

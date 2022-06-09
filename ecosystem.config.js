@@ -2,12 +2,12 @@ module.exports = {
   apps: [
     {
       script: "index.mjs",
-      watch: "./src/*.mjs",
+      watch: ["./src/*.mjs", "./index.mjs"],
       name: "express",
     },
     {
       script: "yarn spack",
-      watch: ["./views/js/*.mjs"],
+      watch: ["./views/js"],
       name: "swc",
     },
     {
@@ -16,10 +16,4 @@ module.exports = {
       name: "tailwind",
     },
   ],
-  env_production: {
-    NODE_ENV: "production",
-  },
-  env_development: {
-    NODE_ENV: "development",
-  },
 };
